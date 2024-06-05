@@ -2,7 +2,7 @@
 
   <h2 align="center">CleverBooks</h2>
 
-  Bookish is a fully responsive e-book website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  CleverBooks is a fully responsive e-book website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://github.com/tarunnnrathoddd/CleverBooks"><strong>➥ Live Demo</strong></a>
 
