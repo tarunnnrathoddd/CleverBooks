@@ -27,10 +27,10 @@
   --ghost-white: hsl(233, 33%, 95%);
   --light-pink: hsl(357, 93%, 84%);
   --light-gray: hsl(0, 0%, 80%);
-  --old-rose: hsl(357, 37%, 62%);
-  --seashell: hsl(20, 43%, 93%);
+  --old-rose: rgb(206,103,87);
+  --seashell: hsl(0, 0%, 77%);
   --charcoal: hsl(203, 30%, 26%);
-  --white: hsl(0, 0%, 100%);
+  --white: hsl(0, 0%, 87%);
 
   /**
    * typography
